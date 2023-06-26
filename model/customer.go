@@ -1,4 +1,4 @@
-// 代码出现bug，进行hot-fix中
+// 代码出现bug，进行hot-fix中 main text
 package model
 
 import (
