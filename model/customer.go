@@ -1,5 +1,5 @@
 // 代码出现bug，进行hot-fix中
-package model
+package model // hot-fix test
 
 import (
 	"fmt"
