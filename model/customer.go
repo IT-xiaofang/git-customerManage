@@ -1,4 +1,5 @@
 // 代码出现bug，进行hot-fix中
+// github上修改代码测试
 package model //main test
 import (
 	"fmt"
